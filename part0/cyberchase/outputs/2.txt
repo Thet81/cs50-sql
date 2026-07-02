@@ -1,0 +1,18 @@
++------------------------------------+--------+
+|               title                | season |
++------------------------------------+--------+
+| Lost My Marbles                    | 1      |
+| Hugs & Witches                     | 2      |
+| EcoHaven CSE                       | 3      |
+| Balancing Act                      | 4      |
+| The Halloween Howl                 | 5      |
+| Digit's B-Day Surprise             | 6      |
+| Weather Watchers Gone With The Fog | 7      |
+| The Hacker's Challenge             | 8      |
+| An Urchin Matter                   | 9      |
+| Fit to be Heroes                   | 10     |
+| Watts of Halloween Trouble         | 11     |
+| Space Waste Odyssey                | 12     |
+| Duck Stop                          | 13     |
+| Clean-Up on Isle 8                 | 14     |
++------------------------------------+--------+
