@@ -1,0 +1,205 @@
++------------------------+---------------+-------+
+|          city          |     type      | total |
++------------------------+---------------+-------+
+| Ashburnham             | Public School | 3     |
+| Athol                  | Public School | 3     |
+| Barre                  | Public School | 3     |
+| Charlestown            | Public School | 3     |
+| Chestnut Hill          | Public School | 3     |
+| Clinton                | Public School | 3     |
+| Dalton                 | Public School | 3     |
+| Dartmouth              | Public School | 3     |
+| Dighton                | Public School | 3     |
+| Dover                  | Public School | 3     |
+| East Bridgewater       | Public School | 3     |
+| East Walpole           | Public School | 3     |
+| Fiskdale               | Public School | 3     |
+| Great Barrington       | Public School | 3     |
+| Harwich                | Public School | 3     |
+| Hopedale               | Public School | 3     |
+| Hull                   | Public School | 3     |
+| Huntington             | Public School | 3     |
+| Manchester             | Public School | 3     |
+| Mashpee                | Public School | 3     |
+| Maynard                | Public School | 3     |
+| Millbury               | Public School | 3     |
+| Monson                 | Public School | 3     |
+| Newton                 | Public School | 3     |
+| Norfolk                | Public School | 3     |
+| Orange                 | Public School | 3     |
+| Palmer                 | Public School | 3     |
+| Raynham                | Public School | 3     |
+| Rockport               | Public School | 3     |
+| Rutland                | Public School | 3     |
+| South Hamilton         | Public School | 3     |
+| Southwick              | Public School | 3     |
+| Spencer                | Public School | 3     |
+| Turners Falls          | Public School | 3     |
+| Upton                  | Public School | 3     |
+| Ware                   | Public School | 3     |
+| Warren                 | Public School | 3     |
+| Webster                | Public School | 3     |
+| West Newbury           | Public School | 3     |
+| Westport               | Public School | 3     |
+| Whitinsville           | Public School | 3     |
+| Wrentham               | Public School | 3     |
+| Acushnet               | Public School | 2     |
+| Allston                | Public School | 2     |
+| Auburndale             | Public School | 2     |
+| Avon                   | Public School | 2     |
+| Ayer                   | Public School | 2     |
+| Baldwinville           | Public School | 2     |
+| Berkley                | Public School | 2     |
+| Bolton                 | Public School | 2     |
+| Boylston               | Public School | 2     |
+| Bradford               | Public School | 2     |
+| Brewster               | Public School | 2     |
+| Byfield                | Public School | 2     |
+| Carver                 | Public School | 2     |
+| Chatham                | Public School | 2     |
+| Cheshire               | Public School | 2     |
+| East Falmouth          | Public School | 2     |
+| East Sandwich          | Public School | 2     |
+| East Taunton           | Public School | 2     |
+| Easthampton            | Public School | 2     |
+| Feeding Hills          | Public School | 2     |
+| Florence               | Public School | 2     |
+| Granby                 | Public School | 2     |
+| Hadley                 | Public School | 2     |
+| Hanscom Air Force Base | Public School | 2     |
+| Hanson                 | Public School | 2     |
+| Harvard                | Public School | 2     |
+| Hatfield               | Public School | 2     |
+| Holbrook               | Public School | 2     |
+| Lancaster              | Public School | 2     |
+| Lee                    | Public School | 2     |
+| Lenox                  | Public School | 2     |
+| Mendon                 | Public School | 2     |
+| Merrimac               | Public School | 2     |
+| Middleton              | Public School | 2     |
+| Montague               | Public School | 2     |
+| North Brookfield       | Public School | 2     |
+| North Chelmsford       | Public School | 2     |
+| North Dartmouth        | Public School | 2     |
+| Northfield             | Public School | 2     |
+| Oak Bluffs             | Public School | 2     |
+| Orleans                | Public School | 2     |
+| Pepperell              | Public School | 2     |
+| Plainville             | Public School | 2     |
+| Rehoboth               | Public School | 2     |
+| Rochester              | Public School | 2     |
+| Shelburne Falls        | Public School | 2     |
+| Shirley                | Public School | 2     |
+| South Deerfield        | Public School | 2     |
+| South Weymouth         | Public School | 2     |
+| Sterling               | Public School | 2     |
+| Stow                   | Public School | 2     |
+| Topsfield              | Public School | 2     |
+| Waban                  | Public School | 2     |
+| West Boylston          | Public School | 2     |
+| West Newton            | Public School | 2     |
+| Westhampton            | Public School | 2     |
+| Westminster            | Public School | 2     |
+| Williamstown           | Public School | 2     |
+| Adams                  | Public School | 1     |
+| Ashby                  | Public School | 1     |
+| Ashfield               | Public School | 1     |
+| Back Bay               | Public School | 1     |
+| Becket                 | Public School | 1     |
+| Berlin                 | Public School | 1     |
+| Bernardston            | Public School | 1     |
+| Bournedale             | Public School | 1     |
+| Boxborough             | Public School | 1     |
+| Brimfield              | Public School | 1     |
+| Brookfield             | Public School | 1     |
+| Carlisle               | Public School | 1     |
+| Centerville            | Public School | 1     |
+| Charlemont             | Public School | 1     |
+| Chester                | Public School | 1     |
+| Chesterfield           | Public School | 1     |
+| Chilmark               | Public School | 1     |
+| Clarksburg             | Public School | 1     |
+| Colrain                | Public School | 1     |
+| Conway                 | Public School | 1     |
+| Cuttyhunk              | Public School | 1     |
+| Dunstable              | Public School | 1     |
+| East Brookfield        | Public School | 1     |
+| East Freetown          | Public School | 1     |
+| Eastham                | Public School | 1     |
+| Edgartown              | Public School | 1     |
+| Erving                 | Public School | 1     |
+| Essex                  | Public School | 1     |
+| Florida                | Public School | 1     |
+| Gilbertville           | Public School | 1     |
+| Gill                   | Public School | 1     |
+| Groveland              | Public School | 1     |
+| Halifax                | Public School | 1     |
+| Hamilton               | Public School | 1     |
+| Hampden                | Public School | 1     |
+| Hancock                | Public School | 1     |
+| Hathorne               | Public School | 1     |
+| Hinsdale               | Public School | 1     |
+| Holland                | Public School | 1     |
+| Hubbardston            | Public School | 1     |
+| Indian Orchard         | Public School | 1     |
+| Jefferson              | Public School | 1     |
+| Lanesborough           | Public School | 1     |
+| Leeds                  | Public School | 1     |
+| Leverett               | Public School | 1     |
+| Lincoln                | Public School | 1     |
+| Marion                 | Public School | 1     |
+| Marston Mills          | Public School | 1     |
+| Marstons Mills         | Public School | 1     |
+| Middleboro             | Public School | 1     |
+| Millville              | Public School | 1     |
+| Nahant                 | Public School | 1     |
+| New Braintree          | Public School | 1     |
+| New Salem              | Public School | 1     |
+| Newbury                | Public School | 1     |
+| Newton Corner          | Public School | 1     |
+| Newton Highlands       | Public School | 1     |
+| North Billerica        | Public School | 1     |
+| North Dighton          | Public School | 1     |
+| North Eastham          | Public School | 1     |
+| North Falmouth         | Public School | 1     |
+| North Grafton          | Public School | 1     |
+| North Weymouth         | Public School | 1     |
+| Oakham                 | Public School | 1     |
+| Otis                   | Public School | 1     |
+| Paxton                 | Public School | 1     |
+| Pelham                 | Public School | 1     |
+| Petersham              | Public School | 1     |
+| Plympton               | Public School | 1     |
+| Princeton              | Public School | 1     |
+| Provincetown           | Public School | 1     |
+| Richmond               | Public School | 1     |
+| Rowe                   | Public School | 1     |
+| Rowley                 | Public School | 1     |
+| Royalston              | Public School | 1     |
+| Salisbury              | Public School | 1     |
+| Sandwich               | Public School | 1     |
+| Savoy                  | Public School | 1     |
+| Sherborn               | Public School | 1     |
+| Shutesbury             | Public School | 1     |
+| South Dartmouth        | Public School | 1     |
+| South Easton           | Public School | 1     |
+| South Grafton          | Public School | 1     |
+| Southampton            | Public School | 1     |
+| Sturbridge             | Public School | 1     |
+| Sunderland             | Public School | 1     |
+| Templeton              | Public School | 1     |
+| Truro                  | Public School | 1     |
+| Vineyard Haven         | Public School | 1     |
+| Wales                  | Public School | 1     |
+| Wellfleet              | Public School | 1     |
+| Wenham                 | Public School | 1     |
+| West Barnstable        | Public School | 1     |
+| West Brookfield        | Public School | 1     |
+| West Dennis            | Public School | 1     |
+| West Tisbury           | Public School | 1     |
+| West Warren            | Public School | 1     |
+| West Yarmouth          | Public School | 1     |
+| Whately                | Public School | 1     |
+| Williamsburg           | Public School | 1     |
+| Worthington            | Public School | 1     |
++------------------------+---------------+-------+

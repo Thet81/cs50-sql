@@ -1,0 +1,14 @@
++-------------+---------------+-------+
+|    city     |     type      | total |
++-------------+---------------+-------+
+| Springfield | Public School | 64    |
+| Worcester   | Public School | 47    |
+| Lynn        | Public School | 27    |
+| Lawrence    | Public School | 26    |
+| Lowell      | Public School | 26    |
+| New Bedford | Public School | 26    |
+| Dorchester  | Public School | 25    |
+| Brockton    | Public School | 24    |
+| Quincy      | Public School | 19    |
+| Fall River  | Public School | 18    |
++-------------+---------------+-------+
