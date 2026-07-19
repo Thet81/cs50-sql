@@ -1,0 +1,1 @@
+--find the 10 public school with the highest per-pupil expenditures. The query should return the names of districts and the per-pupil expenditure for each.

@@ -1,0 +1,2 @@
+--find the name(or names) of the school district(s) with the single least number of pupils
+SELECT "name","pupils" FROM "districts" JOIN "expenditures" ON districts.id = expenditures.district_id ORDER BY "pupils" LIMIT 1;
